@@ -118,8 +118,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Add your license information here]
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Authors
+## Author
 
-[Add author information here] 
+Author: areeesss
